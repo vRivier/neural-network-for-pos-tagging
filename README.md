@@ -7,7 +7,7 @@ d_v stands for dict_vectorizer, l_e for label_encoder, in pickle format.
 
 first, second and third are 3 models trained with the neural network. 
 
-#### Supports for building the neural network : 
+#### Ressources for building the neural network : 
 
 https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 
